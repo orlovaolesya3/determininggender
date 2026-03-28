@@ -1,0 +1,5 @@
+train: Image/train
+val: Image/val
+
+nc: 2  # Количество классов (мужчина, женщина)
+names: ['male', 'female']
